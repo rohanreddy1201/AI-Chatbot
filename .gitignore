@@ -1,0 +1,6 @@
+__pycache__/
+.env
+# Ignore Streamlit secrets
+.streamlit/secrets.toml
+# Ignore Visual Studio files
+.vs/
