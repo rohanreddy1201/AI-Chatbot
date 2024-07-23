@@ -10,8 +10,8 @@ The AI Chatbot project leverages Google Cloud Platform's Vertex AI and the `gemi
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/rohanreddy1201/ai-chatbot-ro.git
-    cd ai-chatbot-ro
+    git clone https://github.com/rohanreddy1201/AI-Chatbot.git
+    cd AI-Chatbot
     ```
 
 2. **Create a virtual environment**:
